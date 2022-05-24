@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shaun Altmann
+- :office: I work at Christian College Geelong
+- 💻 I am a Software Developer
